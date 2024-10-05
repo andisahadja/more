@@ -376,6 +376,11 @@
   
   "categories": [
     {
+      "category_id":85,
+      "category_name":"Super Mario",
+      "category_image":"https://i.pinimg.com/originals/d6/00/b4/d600b47d9b47265a8ed580b9f48e9f1a.jpg"
+    },
+    {
       "category_id":84,
       "category_name":"BT21",
       "category_image":"https://i.pinimg.com/originals/59/a4/8f/59a48f91a5cf4a8acd7e806a5a070938.jpg"
@@ -801,6 +806,146 @@
   
   "wallpapers":
   [
+    {
+      "wallpaper_id": 20,
+      "wallpaper_name": "Super Mario 20",
+      "wallpaper_url": "https://i.pinimg.com/originals/8e/67/ee/8e67eeaff5519bca3604ba97b28eb020.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 19,
+      "wallpaper_name": "Super Mario 19",
+      "wallpaper_url": "https://i.pinimg.com/originals/9c/81/53/9c815384fea0fe09ad8bf99f32012335.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 18,
+      "wallpaper_name": "Super Mario 18",
+      "wallpaper_url": "https://i.pinimg.com/originals/38/9d/5c/389d5c1538e42b5c10d713ed2fcd3e35.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 17,
+      "wallpaper_name": "Super Mario 17",
+      "wallpaper_url": "https://i.pinimg.com/originals/9e/43/a6/9e43a6fd5e71a37df5c8b8a3bbf39949.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 16,
+      "wallpaper_name": "Super Mario 16",
+      "wallpaper_url": "https://i.pinimg.com/originals/ae/dd/2e/aedd2ecf85bd5484859f4174a2587654.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 15,
+      "wallpaper_name": "Super Mario 15",
+      "wallpaper_url": "https://i.pinimg.com/564x/55/ef/f7/55eff795a79b7648686bb9d8f71a8467.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 14,
+      "wallpaper_name": "Super Mario 14",
+      "wallpaper_url": "https://i.pinimg.com/originals/d6/00/b4/d600b47d9b47265a8ed580b9f48e9f1a.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 13,
+      "wallpaper_name": "Super Mario 13",
+      "wallpaper_url": "https://i.pinimg.com/originals/1c/61/b9/1c61b9761e142197371431868537e5f2.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 12,
+      "wallpaper_name": "Super Mario 12",
+      "wallpaper_url": "https://i.pinimg.com/originals/d7/f1/77/d7f177689f96c68b465f18a5c0e98ef4.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 11,
+      "wallpaper_name": "Super Mario 11",
+      "wallpaper_url": "https://i.pinimg.com/originals/f7/cf/10/f7cf10de848bd1d1427e843935f758b9.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 10,
+      "wallpaper_name": "Super Mario 10",
+      "wallpaper_url": "https://i.pinimg.com/originals/30/cc/28/30cc28a5f687c64d4c7758d4a8612d2c.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 9,
+      "wallpaper_name": "Super Mario 9",
+      "wallpaper_url": "https://i.pinimg.com/originals/0a/4e/e1/0a4ee12b4a100902f791b64c27bdeab5.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 8,
+      "wallpaper_name": "Super Mario 8",
+      "wallpaper_url": "https://i.pinimg.com/originals/91/0c/2e/910c2ec37d7c587e420b5402575a49d1.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 7,
+      "wallpaper_name": "Super Mario 7",
+      "wallpaper_url": "https://i.pinimg.com/originals/82/3f/80/823f80df05d8caa2157b248b4bded75a.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 6,
+      "wallpaper_name": "Super Mario 6",
+      "wallpaper_url": "https://i.pinimg.com/originals/71/0e/7b/710e7b8c280d4185d3c525d50c807a70.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 5,
+      "wallpaper_name": "Super Mario 5",
+      "wallpaper_url": "https://i.pinimg.com/564x/a1/46/4a/a1464a49e4289974b836e508a241fa77.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 4,
+      "wallpaper_name": "Super Mario 4",
+      "wallpaper_url": "https://i.pinimg.com/originals/de/e3/70/dee37094e5eee7456184f5221c68b95c.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 3,
+      "wallpaper_name": "Super Mario 3",
+      "wallpaper_url": "https://i.pinimg.com/originals/02/4d/14/024d14cbbcd7954c7b9330daa74167cb.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 2,
+      "wallpaper_name": "Super Mario 2",
+      "wallpaper_url": "https://i.pinimg.com/originals/42/bc/81/42bc8191df50505dcccd376dc1074b5e.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
+    {
+      "wallpaper_id": 1,
+      "wallpaper_name": "Super Mario 1",
+      "wallpaper_url": "https://i.pinimg.com/originals/ea/17/53/ea1753306bb9e1258b406e34f48336c8.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Super Mario"
+    },
     {
       "wallpaper_id": 60,
       "wallpaper_name": "BT21 60",
