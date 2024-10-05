@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": true,
-      "featured_categories": "Cute,Kawaii,Cute Bear,Cute Pastel,BT21",
+      "featured_categories": "Cute,Kawaii,Cute Bear,Cute Pastel,BT21,Cartoon,Super Mario",
       "show_wallpaper_name": true,
       "show_wallpaper_category": false,
       "show_favorite_button_in_wallpaper_list": true,
@@ -19,7 +19,7 @@
 
   "ads": [
     {
-      "ad_status": true,
+      "ad_status": false,
 
       "main_ad": "admob",
       "backup_ad": "alien_ads",
@@ -806,6 +806,146 @@
   
   "wallpapers":
   [
+    {
+      "wallpaper_id": 20,
+      "wallpaper_name": "Cartoon 20",
+      "wallpaper_url": "https://i.pinimg.com/originals/77/dc/67/77dc677a9286d700a79891f7601c438e.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 19,
+      "wallpaper_name": "Cartoon 19",
+      "wallpaper_url": "https://i.pinimg.com/originals/ad/1a/5a/ad1a5ac3ade2595dd265935bba6f58b8.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 18,
+      "wallpaper_name": "Cartoon 18",
+      "wallpaper_url": "https://i.pinimg.com/originals/83/0d/3f/830d3f1a55b0c5e9619415bc259e9f6e.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 17,
+      "wallpaper_name": "Cartoon 17",
+      "wallpaper_url": "https://i.pinimg.com/originals/d0/72/72/d0727221a0a05108a47e41ee88a8f663.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 16,
+      "wallpaper_name": "Cartoon 16",
+      "wallpaper_url": "https://i.pinimg.com/originals/d1/b3/4a/d1b34a7159be995ceaf00df3b11c5725.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 15,
+      "wallpaper_name": "Cartoon 15",
+      "wallpaper_url": "https://i.pinimg.com/originals/b3/a3/dd/b3a3dd802489b510e76b7141c0c8168e.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 14,
+      "wallpaper_name": "Cartoon 14",
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/e4/f0/b4e4f0d19bec6381a850bdadea4aa70f.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 13,
+      "wallpaper_name": "Cartoon 13",
+      "wallpaper_url": "https://i.pinimg.com/originals/6c/6c/41/6c6c41433561b9d11efa7cf6269bfe7f.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 12,
+      "wallpaper_name": "Cartoon 12",
+      "wallpaper_url": "https://i.pinimg.com/originals/5b/c1/ae/5bc1ae465f5e1628f9f5d85306b84b42.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 11,
+      "wallpaper_name": "Cartoon 11",
+      "wallpaper_url": "https://i.pinimg.com/originals/50/f6/30/50f630e9949d64a068e45ff8d8b916f9.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 10,
+      "wallpaper_name": "Cartoon 10",
+      "wallpaper_url": "https://i.pinimg.com/originals/47/d2/b6/47d2b62d035e13451fb0247bbd39b80e.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 9,
+      "wallpaper_name": "Cartoon 9",
+      "wallpaper_url": "https://i.pinimg.com/originals/be/4f/ad/be4fadccc79704ac72684ea5125f8735.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 8,
+      "wallpaper_name": "Cartoon 8",
+      "wallpaper_url": "https://i.pinimg.com/originals/b6/cd/9c/b6cd9ce9253df91033fa32ad5efa2642.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 7,
+      "wallpaper_name": "Cartoon 7",
+      "wallpaper_url": "https://i.pinimg.com/564x/43/cf/4e/43cf4e150d0770094f4025ef536d22d2.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 6,
+      "wallpaper_name": "Cartoon 6",
+      "wallpaper_url": "https://i.pinimg.com/originals/03/9d/9b/039d9b96d30db0064e42168458d2f5ae.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 5,
+      "wallpaper_name": "Cartoon 5",
+      "wallpaper_url": "https://i.pinimg.com/originals/38/c2/f3/38c2f3acd7071d3debfc176e6e167d70.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 4,
+      "wallpaper_name": "Cartoon 4",
+      "wallpaper_url": "https://i.pinimg.com/originals/18/12/3d/18123da38a0dade98263475d29f5907a.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 3,
+      "wallpaper_name": "Cartoon 3",
+      "wallpaper_url": "https://i.pinimg.com/originals/e5/6e/13/e56e13f2c46ce2e25c5f06dd381f8af1.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 2,
+      "wallpaper_name": "Cartoon 2",
+      "wallpaper_url": "https://i.pinimg.com/originals/e4/ad/fd/e4adfd0bd93d231ca181f6e113ecda56.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
+    {
+      "wallpaper_id": 1,
+      "wallpaper_name": "Cartoon 1",
+      "wallpaper_url": "https://i.pinimg.com/originals/16/fb/0d/16fb0d6e14272f28f798db0a65ee00d6.jpg",
+      "wallpaper_thumbnail": "",
+      "category_name":"Cartoon"
+    },
     {
       "wallpaper_id": 20,
       "wallpaper_name": "Super Mario 20",
